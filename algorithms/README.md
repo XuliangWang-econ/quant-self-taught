@@ -19,3 +19,4 @@ python algorithms/group_anagrams.py
 |:---:|:---|:---|:---|:---|
 | 49 | Group Anagrams | `group_anagrams.py` | $O(NK \log K)$ | $O(NK)$ |
 | 271 | Encode and Decode Strings | `encode_and_decode_strings.py` | $O(N)$ | $O(1)$ |
+| 128 | Longest Consecutive Sequence | `longest_consecutive_sequence.py` | $O(N)$ | $O(N)$ |
